@@ -1,11 +1,5 @@
 # Statute8234 About Me:
 ### Contact Me:
-[![Static Badge](https://img.shields.io/badge/email-red)](mailto:recipient@danieltower101501@gmail.com)
-[![Static Badge](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/daniel-tower-866149235/)
-[![Static Badge](https://img.shields.io/badge/wixsite-white)](https://danieltower101501.wixsite.com/my-site)
-[![Static Badge](https://img.shields.io/badge/github-darkgray)](https://github.com/Statute8234)
-[![Static Badge](https://img.shields.io/badge/reddit-orange)](https://www.reddit.com/r/randomscreenshot/)
-[![Static Badge](https://img.shields.io/badge/twitter-darkgray)](https://twitter.com/RndScreenShot)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Statute8234&show_icons=true&theme=radical)
 
