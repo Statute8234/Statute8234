@@ -1,12 +1,21 @@
 # Statute8234 About Me:
 
 ### Contact Me:
-[![Static Badge](https://img.shields.io/badge/email-red)](danieltower101501@gmail.com)
-[![Static Badge](https://img.shields.io/badge/linkedin-blue)]([danieltower101501@gmail.com](https://www.linkedin.com/in/daniel-tower-866149235/))
-[![Static Badge](https://img.shields.io/badge/wixsite-white)](https://danieltower101501.wixsite.com/my-site)
-[![Static Badge](https://img.shields.io/badge/github-darkgray)](https://github.com/Statute8234)
-[![Static Badge](https://img.shields.io/badge/reddit-orange)](https://www.reddit.com/r/randomscreenshot/)
-[![Static Badge](https://img.shields.io/badge/twitter-darkgray)](@RndScreenShot)
+<a href="https://www.reddit.com/r/randomscreenshot/">
+  <img src="reddit.png" width="50" height="50">
+</a>
+<a href="https://twitter.com/RndScreenShot">
+  <img src="twitter.png" width="50" height="50"> 
+</a>
+<a href="danieltower101501@gmail.com">
+  <img src="communication.png" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/daniel-tower-866149235/">
+  <img src="linkedin.png" width="50" height="50">
+</a>
+<a href="https://danieltower101501.wixsite.com/my-site">
+  <img src="internet.png" width="50" height="50">
+</a>
 
 🎓 I am currently pursuing my **Bachelor's in Science, with a major in Media and Communications with a minor in computer information systems**.
 
