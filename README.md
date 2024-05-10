@@ -7,6 +7,9 @@
 <a href="https://twitter.com/RndScreenShot">
   <img src="twitter.png" width="50" height="50"> 
 </a>
+<a href="https://discord.com/channels/664087970818555914/1161810576847147028">
+  <img src="discord.png" width="50" height="50">
+</a>
 <a href="danieltower101501@gmail.com">
   <img src="communication.png" width="50" height="50">
 </a>
