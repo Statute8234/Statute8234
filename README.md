@@ -30,7 +30,7 @@ As a full-time student with a major in media and communications and a minor in c
 - C#: **2/100**
 - JavaScript: **1/100**
 - CSS: **1/100**
-- 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
