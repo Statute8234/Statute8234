@@ -22,6 +22,15 @@ As a full-time student with a major in media and communications and a minor in c
 - 🎯 My Goal is to Create to as many **open source project** as possible.
 - 📫 How to reach me: **Discord: RedInfinity_Pro**
 
+## 🎯Goals:
+- Python: **61/100**
+- C++: **1/100**
+- HTML: **2/100**
+- Java: **13/100**
+- C#: **2/100**
+- JavaScript: **1/100**
+- CSS: **1/100**
+- 
 ## 🏆 GitHub Trophies
 
 <p align="center">
