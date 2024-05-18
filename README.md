@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/twitter/follow/RndScreenShot?label=Follow&style=social" alt="Twitter Followers">
   <a href="https://www.linkedin.com/in/Daniel Tower">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/daniel-tower-866149235"</a>
 </p>
     
 As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
