@@ -26,7 +26,7 @@ As a full-time student with a major in media and communications and a minor in c
 - Python: **61/100**
 - C++: **1/100**
 - HTML: **2/100**
-- Java: **13/100**
+- Java: **15/100**
 - C#: **2/100**
 - JavaScript: **1/100**
 - CSS: **1/100**
