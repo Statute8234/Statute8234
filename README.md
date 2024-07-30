@@ -23,10 +23,10 @@ As a full-time student with a major in media and communications and a minor in c
 - 📫 How to reach me: **Discord: RedInfinity_Pro**
 
 ## 🎯Goals:
-- Python: **61/100**
-- C++: **1/100**
+- Python: **64/100**
+- C++: **2/100**
 - HTML: **2/100**
-- Java: **15/100**
+- Java: **18/100**
 - C#: **2/100**
 - JavaScript: **1/100**
 - CSS: **1/100**
