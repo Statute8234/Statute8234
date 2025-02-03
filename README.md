@@ -4,11 +4,6 @@
   <a href="https://github.com/Statute8234">
     <img src="https://img.shields.io/github/followers/Statute8234?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
-  <a href="https://www.reddit.com/r/randomscreenshot/">
-    <img src="https://img.shields.io/reddit/subreddit-subscribers/randomscreenshot?label=Follow%20Me&style=social" alt="Reddit Members">
-  </a>
-  <a href="https://twitter.com/RndScreenShot">
-    <img src="https://img.shields.io/twitter/follow/RndScreenShot?label=Follow&style=social" alt="Twitter Followers">
   <a href="https://www.linkedin.com/in/Daniel Tower">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   <a href="https://www.linkedin.com/in/daniel-tower-866149235"</a>
@@ -23,13 +18,16 @@ As a full-time student with a major in media and communications and a minor in c
 - 📫 How to reach me: **Discord: RedInfinity_Pro**
 
 ## 🎯Goals:
-- Python: **64/100**
-- C++: **2/100**
-- HTML: **2/100**
-- Java: **18/100**
+- Python: **67/100**
+- GDScript: **1/100**
+- Shell: **1/100**
+- C++: **3/100**
+- HTML: **4/100**
 - C#: **2/100**
-- JavaScript: **1/100**
+- Java: **18/100**
+- Kvlang: **2/100**
 - CSS: **1/100**
+- JavaScript: **1/100**
 
 ## 🏆 GitHub Trophies
 
