@@ -1,14 +1,21 @@
-<h1 align="center">Statute8234</h1>
+<h1 align="center">RedInfinity_Pro</h1>
 
 <p align="center">
   <a href="https://github.com/Statute8234">
-    <img src="https://img.shields.io/github/followers/Statute8234?label=Follow%20Me&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/RedInfinity_Pro?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
   <a href="https://www.linkedin.com/in/Daniel Tower">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
   <a href="https://www.linkedin.com/in/daniel-tower-866149235"</a>
+    <a href="https://bsky.app/profile/redinfinitypro.bsky.social">
+    <img src="https://img.shields.io/badge/BlueSky-Connect-blue?style=social&logo=BlueSky" alt="BlueSky">
+  <a href="https://bsky.app/profile/redinfinitypro.bsky.social"</a>
+  <a href="https://soundcloud.com/daniel-tower-926344088/tracks"</a>
+    <a href="https://bsky.app/profile/redinfinitypro.bsky.social">
+    <img src="https://img.shields.io/badge/SoundCloud-Connect-blue?style=social&logo=SoundCloud" alt="SoundCloud">
+  <a href="https://soundcloud.com/daniel-tower-926344088/tracks"</a>
 </p>
-    
+
 As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
 
 ## 🙋‍♂️ About Me
