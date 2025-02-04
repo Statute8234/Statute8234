@@ -1,8 +1,8 @@
 <h1 align="center">RedInfinity_Pro</h1>
 
 <p align="center">
-  <a href="https://github.com/Statute8234">
-    <img src="https://img.shields.io/github/followers/Statute8234?label=Follow%20Me&style=social" alt="GitHub Followers">
+  <a href="https://github.com/RedInfinity_Pro">
+    <img src="https://img.shields.io/github/followers/RedInfinity_Pro?label=Follow%20Me&style=social" alt="GitHub Followers">
   </a>
   <a href="https://www.linkedin.com/in/daniel-tower-866149235">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn">
