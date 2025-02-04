@@ -15,7 +15,6 @@
   </a>
 </p>
 
-
 As a full-time student with a major in media and communications and a minor in computer information systems, committed to technical proficiency, video production, web development, communication, and programming, aiming to graduate in 2026.
 
 ## 🙋‍♂️ About Me
